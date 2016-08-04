@@ -28,7 +28,7 @@ public class ConfigureABusiness {
         ua.setEmployee(systemAdmin);
         ua.setRole(new SystemAdminRole());
         //create a network
-        //create a enterprise
+        //create an enterprise
         //create some organization
         
         system.getEmployeeDirectory().getEmployeelist().add(systemAdmin);
